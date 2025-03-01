@@ -136,4 +136,4 @@ interface = gr.Interface(
 )
 
 # اجرای رابط کاربری
-interface.launch()
+interface.launch(share=True)
