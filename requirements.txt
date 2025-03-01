@@ -1,0 +1,10 @@
+git+https://github.com/yaranbarzi/aigolden-audio-to-text.git
+edge_tts
+yt-dlp
+pysrt
+rubberband-cli
+pydub
+google-generativeai
+tqdm
+tenacity
+gradio
