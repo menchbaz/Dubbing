@@ -1,0 +1,6 @@
+*.mp4
+*.wav
+*.srt
+dubbing_project/
+__pycache__/
+*.pyc
